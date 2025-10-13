@@ -295,4 +295,4 @@ Prince - Projet AeroLink Togo
 
 ---
 
-**Note** : Ce projet est actuellement en développement actif. La structure de base est en place, mais de nombreuses fonctionnalités restent à implémenter selon le plan défini dans `docs/shéma.md`.votre aide me sera d'une grande utilité 
+**Note** : Ce projet est actuellement en développement actif. La structure de base est en place, mais de nombreuses fonctionnalités restent à implémenter selon le plan défini dans `docs/shéma.md`.je serai vraiment ravie reconnaissant si vous m'apportiez votre aide 
