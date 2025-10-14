@@ -12,7 +12,7 @@ AeroLink est une API REST développée avec FastAPI permettant de gérer les op�
 - Suivi météorologique des aéroports
 - Géolocalisation des aéroports (avec PostGIS)
 
-## 🏗️ Architecture du projet
+## 🏗️ Architecture du projet.
 
 ```
 aerolink-togo/
