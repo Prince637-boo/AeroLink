@@ -1,6 +1,6 @@
 # AeroLink Togo 🛩️
 
-Plateforme intelligente de gestion et prédiction de trafic aérien local pour le Togo.mn
+Plateforme intelligente de gestion et prédiction de trafic aérien local pour le Togo.mnp
 
 ## 📋 Vue d'ensemble
 
